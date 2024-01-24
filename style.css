@@ -3,7 +3,7 @@
     margin: auto;
     width: 40vw;
     height: 40vw;
-    background-image: url("/clock.webp");
+    background-image: url("clock.webp");
     background-size: 100%;
 }
 
